@@ -1,0 +1,17 @@
+.our-blog {
+  background-color: $bg-color;
+
+  .row {
+    padding: 108px 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  h1 {
+    font-family: 'WorkSans-Bold';
+    font-size: 48px;
+    line-height: 59px;
+    color: $brown;
+  }
+}
